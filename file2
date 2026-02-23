@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 class Main {
   public static void main(String[] args) {
 
@@ -11,3 +12,8 @@ class Main {
     System.out.println(str.endsWith("Java")); // false
   }
 }
+=======
+Hi
+this is file2
+adding data to use stash
+>>>>>>> Stashed changes
